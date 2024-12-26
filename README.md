@@ -27,7 +27,7 @@ I'm a Quality Assurance Engineer passionate about test automation and software q
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
 
 ---
+
 ⭐️ Feel free to reach out for collaborations or to exchange ideas about QA and test automation!
 
-![Snake animation](https://github.com/mari-roc/mari-roc/blob/output/github-contribution-grid-snake.svg)
 
