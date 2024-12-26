@@ -29,5 +29,5 @@ I'm a Quality Assurance Engineer passionate about test automation and software q
 ---
 ⭐️ Feel free to reach out for collaborations or to exchange ideas about QA and test automation!
 
-![snake](https://github.com/mari-roc/mari-roc)
+![Snake animation](https://github.com/mari-roc/mari-roc/blob/output/github-contribution-grid-snake.svg)
 
