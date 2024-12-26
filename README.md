@@ -18,8 +18,8 @@ I'm a Quality Assurance Engineer passionate about test automation and software q
 
 ## 📊 GitHub Stats
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mari-roc&show_icons=true&theme=radical"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mari-roc&layout=compact&theme=radical"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=mari-roc&show_icons=true&theme=radical"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mari-roc&layout=compact&theme=radical"/>
 </div>
 
 ### 🤝 Let's Connect!
