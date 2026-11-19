@@ -1,26 +1,33 @@
-# Hi, I'm Mariana! 👋
 
-Software Engineer focused on Backend Development.
+<div align="center">
 
-I work primarily with Ruby and Elixir, building
-backend solutions, APIs and system integrations.
+# Mariana Rocha
 
-I'm interested in software engineering,
-application security, observability and
-AI-powered development workflows.
+### Software Engineer · Backend Development
 
-## Technologies
+**Building reliable software, one problem at a time.**
 
-- Languages: Ruby, Elixir, Java
-- Backend: APIs, REST
-- Databases: SQL
-- Tools: Git, Docker, Sentry, Grafana
+Ruby · Elixir · APIs · Software Engineering
 
-## Featured Projects
+</div>
 
-- [Todo Manager CLI](https://github.com/mari-roc/todo-manager-cli)
-- [Elixir Guessing Game](https://github.com/mari-roc/elixir-guessing-game)
+---
 
-## Connect with me
+### About
 
-- LinkedIn: SEU_LINK_DO_LINKEDIN
+I'm a Software Engineer with experience in backend development, system integrations, and software quality.
+
+I primarily work with Ruby and Elixir, and I'm interested in building reliable systems, improving application security, and exploring how AI can make software engineering workflows more effective.
+
+Currently pursuing a degree in Systems Analysis and Development at Fatec Ipiranga.
+
+### Tech & Interests
+
+- **Languages:** Ruby, Elixir, Java
+- **Backend:** APIs, system integrations
+- **Engineering:** Application security, observability, debugging
+- **Exploring:** AI agents, automation, MCP
+
+### Let's connect
+
+[LinkedIn](SEU_LINK_DO_LINKEDIN)
