@@ -27,7 +27,5 @@ Currently pursuing a degree in Systems Analysis and Development at Fatec Ipirang
 - **Engineering:** Application security, observability, debugging
 - **Exploring:** AI agents, automation, MCP
 
-### Let's connect
-
-[LinkedIn](www.linkedin.com/in/mariana-rocha-engineerN)
-[Email](mariana.rocha.engineer@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/mariana-rocha-engineer)
+[Email](mailto:mariana.rocha.engineer@gmail.com)
