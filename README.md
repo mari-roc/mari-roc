@@ -1,4 +1,3 @@
-
 <div align="center">
 
 # Mariana Rocha
@@ -30,4 +29,5 @@ Currently pursuing a degree in Systems Analysis and Development at Fatec Ipirang
 
 ### Let's connect
 
-[LinkedIn](SEU_LINK_DO_LINKEDIN)
+[LinkedIn](www.linkedin.com/in/mariana-rocha-engineerN)
+[Email](mariana.rocha.engineer@gmail.com)
